@@ -1,3 +1,5 @@
+#please provide comments 
+
 def bitonic_sort(arr, reverse=False):
     """
     bitonic sort is sorting algorithm to use multiple process, but this code not containing parallel process
