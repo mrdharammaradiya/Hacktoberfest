@@ -3,7 +3,7 @@ def insertion_sort(arr, simulation=False):
         Complexity: O(n^2)
     """
     
-    iteration = 0
+    iteration = 1
     if simulation:
         print("iteration",iteration,":",*arr)
         
