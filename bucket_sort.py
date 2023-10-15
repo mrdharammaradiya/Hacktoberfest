@@ -3,7 +3,7 @@ def bucket_sort(arr):
         Complexity: O(n^2)
         The complexity is dominated by nextSort
     '''
-    # The number of buckets and make buckets
+    # The number of buckets and make stores
     num_buckets = len(arr)
     buckets = [[] for bucket in range(num_buckets)]
     # Assign values into bucket_sort
